@@ -13,4 +13,5 @@
 ## training
 $ python flow --model cfg/tiny-yolo-voc-3c.cfg --load bin/tiny-yolo-voc.weights --train --gpu .7 --annotation dataset/Training/Annotations --dataset dataset/Training/Images --lr 1e-3 --epoch 100
 
-
+## lancement de projet realiser avec tkinter:
+ python application.py
